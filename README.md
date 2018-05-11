@@ -1,0 +1,2 @@
+# openforge
+view everything
